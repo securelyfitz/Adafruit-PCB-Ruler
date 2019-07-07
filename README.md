@@ -1,6 +1,8 @@
-# PCB for the Adafruit PCB Ruler
+# PCB for my derivative of the Adafruit PCB Ruler
 
-Format is EagleCAD schematic and board layout
+I made some minor tweaks for my own use in my classes. If you'd like one, I recommend you buy it from adafruit from the link below.
+
+Format is EagleCAD board layout
 
 <a href="http://www.adafruit.com/products/1554"><img src="assets/image.jpg?raw=true" width="500px"><br/>Click here to purchase one from the Adafruit shop</a>
 
